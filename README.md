@@ -9,8 +9,8 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00ff9c&height=100&section=header&text=stats&fontSize=36&fontColor=ffffff&fontAlign=50&fontAlignY=40&animation=fadeIn" alt="stats" />
 
 <p align="center">
-  <img src="https://github-readme-stats.hackclub.dev/api?username=shezitt&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" height="165" alt="github stats" />
-  <img src="https://github-readme-stats.hackclub.dev/api/top-langs/?username=shezitt&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" height="165" alt="top languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=shezitt&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" height="165" alt="github stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shezitt&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" height="165" alt="top languages" />
 </p>
 
 <p align="center">
